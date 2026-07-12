@@ -44,7 +44,7 @@
                             </wsdlUrls>
                             <keep>true</keep>
                             <verbose>true</verbose>
-                            <packageName>com.hellorpc.client</packageName>
+                            <packageName>client</packageName>
                             <sourceDestDir>${project.build.directory}/generated-sources/wsimport</sourceDestDir>
                         </configuration>
                     </execution>
