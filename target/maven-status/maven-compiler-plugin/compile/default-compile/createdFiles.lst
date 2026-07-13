@@ -1,0 +1,6 @@
+com\hellorpc\HelloWorldService.class
+com\hellorpc\HelloWorldImpl.class
+client\HelloWorld.class
+client\HelloWorldService.class
+com\hellorpc\HelloWorldPublisher.class
+client\HelloWorldClient.class
